@@ -1,4 +1,4 @@
-# TBS Agent — configuration and management software for Team BlackSheep gear (EN)
+# TBS Agent — configuration and management software for Team BlackSheep gear 
 
 <p align="center">
   <a href="https://tbs-agent-configuration.github.io/.github">
