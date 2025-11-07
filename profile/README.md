@@ -1,6 +1,5 @@
 # TBS Agent — configuration and management software for Team BlackSheep gear (EN)
 
-
 <p align="center">
   <a href="https://tbs-agent-configuration.github.io/.github">
     <img src="https://img.shields.io/badge/Download_TBS_Agent-1b2838?style=for-the-badge&logo=windows&logoColor=white" alt="Download TBS Agent">
